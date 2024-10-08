@@ -1,11 +1,11 @@
 from typing import Optional
 
 class MigrationPath:
-    def __init__(self, destination: Habitat,species: str,start_location: Habitat, current_location: str, path_id: int, paths: dict[int, MigrationPath] = {},duration: Optional[int] = None) -> None:
+    def __init__(self, migration_path: MigrationPath,) -> None:
+        self.migration_path = migration_path
         pass
     
-    def create_migration_path(species: str, start_location: Habitat, destination: Habitat, duration: Optional[int] = None) -> None:
-        pass
+
     def get_migration_path_by_id(path_id: int) -> MigrationPath:
         pass
     
