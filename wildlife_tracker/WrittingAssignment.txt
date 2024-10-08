@@ -1,0 +1,20 @@
+1. As a conservative git user that has never seen Gigglegit before, I want to   
+   have a more intuitive and intriguing version control so that i don't have to remember the tedious
+   formula to implement. 
+
+    As a team lead onboarding an experienced GiggleGit user, I want to have a more relaxing and easygoing 
+   version control that minimize the frustrates the merges.
+
+2. As a school professor, I want to have a version control that can attact students to learn 
+    easier so that I don't have to print out cheatsheet for them.
+
+    ticket1: complete feasibility 
+    Details: Each memes must stand for different functionality respectly, and they are 
+    meaningful of their roles.
+    ticket2: implement safety 
+    Details: We need implement a data encripted hash system for storing factors of each 
+    version changes, so it will not cause data leak. 
+
+
+3. Because it lacks the specific goal, clarity and motivation.
+    It's a client's requirement instead of user's story 
